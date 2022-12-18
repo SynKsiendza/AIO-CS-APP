@@ -1,0 +1,15 @@
+D:\GIT\all-in-one-app\bin\Debug\net7.0\APP1.exe
+D:\GIT\all-in-one-app\bin\Debug\net7.0\APP1.deps.json
+D:\GIT\all-in-one-app\bin\Debug\net7.0\APP1.runtimeconfig.json
+D:\GIT\all-in-one-app\bin\Debug\net7.0\APP1.dll
+D:\GIT\all-in-one-app\bin\Debug\net7.0\APP1.pdb
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.csproj.AssemblyReference.cache
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.AssemblyInfoInputs.cache
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.AssemblyInfo.cs
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.csproj.CoreCompileInputs.cache
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.dll
+D:\GIT\all-in-one-app\obj\Debug\net7.0\refint\APP1.dll
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.pdb
+D:\GIT\all-in-one-app\obj\Debug\net7.0\APP1.genruntimeconfig.cache
+D:\GIT\all-in-one-app\obj\Debug\net7.0\ref\APP1.dll
